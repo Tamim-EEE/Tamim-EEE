@@ -91,8 +91,9 @@ My work combines **engineering leadership** 🧩, **backend architecture** 🏗�
 
 <div align="center">
   <samp>
-    <i>&gt; Happy Coding!</i> <img style="vertical-align: middle;" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="25" height="25" />
+    <i>&gt; Happy Coding!</i>
   </samp>
 </div>
 
 </br>
+

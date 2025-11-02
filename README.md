@@ -56,13 +56,13 @@ My work combines **engineering leadership** 🧩, **backend architecture** 🏗�
 ## <img style="vertical-align: middle;" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-noushinpervez.vercel.app/api?username=Tamim-EEE&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github&hide_border=true" alt="Tamim's Github Stats" width="49.5%">
-  <img align="center" src="https://github-readme-streak-stats-noushin.vercel.app/?user=Tamim-EEE&count_private=true&background=0,000000,130F40&ring=7A7ADB&fire=2234AE&dates=718CA1&stroke=7A7ADB&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&include_all_commits=true&hide_border=true" alt="Tamim's GitHub Streak" width="49.5%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tamim-EEE&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github&hide_border=true" alt="Tamim's Github Stats" width="49.5%">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tamim-EEE&background=0,000000,130F40&ring=7A7ADB&fire=2234AE&dates=718CA1&stroke=7A7ADB&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&hide_border=true" alt="Tamim's GitHub Streak" width="49.5%">
 
   </br>
 
-  <img align="center" src="https://github-readme-stats-noushinpervez.vercel.app/api/top-langs/?username=Tamim-EEE&count_private=true&layout=donut&langs_count=5&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&size_weight=1&count_weight=0&include_all_commits=true&custom_title=Top Languages by Repo&hide_border=true" alt="Tamim's Top Languages by Repo Size" width="49.5%">
-  <img align="center" src="https://github-readme-stats-noushinpervez.vercel.app/api/top-langs/?username=Tamim-EEE&count_private=true&layout=donut&langs_count=5&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&size_weight=0&count_weight=1&include_all_commits=true&custom_title=Top Languages by Commit&hide_border=true" alt="Tamim's Top Languages by Commits" width="49.5%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-EEE&layout=donut&langs_count=5&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&size_weight=1&count_weight=0&include_all_commits=true&custom_title=Top%20Languages%20by%20Repo&hide_border=true" alt="Tamim's Top Languages by Repo Size" width="49.5%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-EEE&layout=donut&langs_count=5&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&size_weight=0&count_weight=1&include_all_commits=true&custom_title=Top%20Languages%20by%20Commit&hide_border=true" alt="Tamim's Top Languages by Commits" width="49.5%">
 
   </br>
 

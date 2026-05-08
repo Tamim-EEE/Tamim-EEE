@@ -2,7 +2,7 @@
 <h3 align="center">
   <samp>&gt; Hey there, fellow &lt;developers /&gt;! I'm
   <b><a target="_blank" href="https://github.com/Tamim-EEE">Tamim Islam</a></b></samp>
-  <img style="vertical-align: middle;" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
+  <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" />
 </h3>
 
 <br>
@@ -13,20 +13,20 @@
 
 <!-- Intro -->
 
-## <img style="vertical-align: middle;" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> About Me
+## <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" /> About Me
 
 I'm a **Project Engineer 🧠 [@ Raktch Technology and Software](https://www.raktch.com/)**.
 I hold a **B.Sc. in Electrical & Electronic Engineering 🎓 from [American International University–Bangladesh (AIUB)](https://www.aiub.edu/)**.
 
-I'm a *Tech Professional 💻* passionate about *Backend Development, **Automation* and *Building scalable systems* that solve real-world problems and add value ✨. I enjoy coding in *Python* 🐍 and learning something new every day 🌱.
+I'm a Tech Professional 💻 passionate about Backend Development, \*\*Automation and Building scalable systems that solve real-world problems and add value ✨. I enjoy coding in Python 🐍 and learning something new every day 🌱.
 
-As a *Backend Developer* 💻 with more than one year of experience, I've honed my skills in designing and building the server-side of applications ⚙. Throughout my career, I've gained expertise in *database management* 🗄 and *RESTful API design* 🔗.
+As a Backend Developer 💻 with more than one year of experience, I've honed my skills in designing and building the server-side of applications ⚙️. Throughout my career, I've gained expertise in database management 🗄️ and RESTful API design 🔗.
 
-My work combines *engineering leadership* 🧩, *backend architecture* 🏗 and a deep curiosity for improving the *developer experience* 🚀. I take pride in my ability to work collaboratively with other members of a development team 🤝 and to effectively communicate complex technical concepts to non-technical stakeholders 💬.
+My work combines engineering leadership 🧩, backend architecture 🏗️ and a deep curiosity for improving the developer experience 🚀. I take pride in my ability to work collaboratively with other members of a development team 🤝 and to effectively communicate complex technical concepts to non-technical stakeholders 💬.
 
 <!-- Skills -->
 
-## <img style="vertical-align: middle;" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Technologies & Tools
+## <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" /> Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white&style=flat-square)
@@ -53,7 +53,7 @@ My work combines *engineering leadership* 🧩, *backend architecture* 🏗 and 
 
 <!-- GitHub Stats -->
 
-## <img style="vertical-align: middle;" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> GitHub Stats
+## <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> GitHub Stats
 
 <div align="center">
    <img align="center" src="https://github-readme-stats-tamim.vercel.app/api?username=Tamim-EEE&include_all_commits=true&count_private=true&show_icons=true&line_height=23&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github&hide_border=true" alt="Tamim's Github Stats" width="49.5%">
@@ -79,7 +79,7 @@ My work combines *engineering leadership* 🧩, *backend architecture* 🏗 and 
 
 <!-- Contact -->
 
-## <img style="vertical-align: middle;" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Connect with Me
+## <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" /> Connect with Me
 
 [![Gmail](https://img.shields.io/badge/-tamimislam3154@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:tamimislam3154@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-/tamimislameee-0A66C2?logo=linkedin-white&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/tamimislameee/)
